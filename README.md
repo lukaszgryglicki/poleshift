@@ -37,5 +37,5 @@ Use `DIRECTION="alpha_inc;beta_inc;n_frames"` to generate `n_fromes` output file
 
 # Generate video
 
-- Use `video.sh` script that will create final 3000 frames which means 120s (2 minutes) of 25 FPS movie with rotating poles, file is [here](https://github.com/lukaszgryglicki/poleshift/blob/master/video.mp4)
-- It is also available on YouTube [here]().
+- Use `video.sh` script that will create final 3000 frames which means 120s (2 minutes) of 25 FPS movie with rotating poles, file is is not available directly (it is 264Mb forbiden by GitHub).
+- It is available on YouTube [here](https://www.youtube.com/watch?v=MwESyNhfXYg). make sure you select HD quality.
